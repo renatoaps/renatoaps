@@ -1,7 +1,24 @@
 ### Hi there 👋
+#
+I am Renato Santana, Backend developer and Integration Architect.
 
-[![Renato Santana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoaps)](https://github.com/renatoaps/github-readme-stats)
+<a href="https://github.com/renatoapsa/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoaps&theme=dracula&hide=issues,contribs" />
+</a>
+<a href="https://github.com/renatoaps/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoaps&langs_count=8&theme=dracula" />
+</a>
 
+### Skills
+![](https://img.shields.io/badge/Integration-ApacheCamel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Integration-Camunda-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Integration-IBM(IntegrationBusv10)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Integration-CAApi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SoapUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Intellij(IntegrationBusv10)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **renatoaps/renatoaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
