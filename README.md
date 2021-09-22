@@ -19,6 +19,14 @@ I am Renato Santana, Backend developer and Integration Architect.
 ![](https://img.shields.io/badge/Tools-SoapUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Intellij(IntegrationBusv10)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+#
+You can find me on [![LinkedIn][2.2]][2].
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2]: https://www.linkedin.com/in/renato-santana-b197a0171/
+
+
 <!--
 **renatoaps/renatoaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
