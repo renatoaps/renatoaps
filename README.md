@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Renato Santana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoaps)](https://github.com/renatoaps/github-readme-stats)
+
 <!--
 **renatoaps/renatoaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
