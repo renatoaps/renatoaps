@@ -2,7 +2,7 @@
 #
 I am Renato Santana, Backend developer and Integration Architect.
 
-<a href="https://github.com/renatoapsa/github-readme-stats">
+<a href="https://github.com/renatoaps/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoaps&theme=dracula&hide=issues,contribs" />
 </a>
 <a href="https://github.com/renatoaps/convoychat">
