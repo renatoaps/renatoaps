@@ -2,7 +2,6 @@
 #
 I am Renato Santana, Backend developer and Integration Architect.
 
-
 - 🌱 I’m currently learning React, HTML and CSS!
 #
 
