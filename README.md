@@ -65,9 +65,9 @@ I am Renato Santana, Backend developer and Integration Architect.
 ![](https://img.shields.io/badge/Java-Mockito-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 #### Certifications
-![](https://img.shields.io/badge/Certification-Apigee(Google)-informational?style=for-the-badge&logo=appveyor<google>&logoColor=#4285F4&color=2bbc9d)
-![](https://img.shields.io/badge/Certification-SixSigma(yellowBelt)-informational?style=for-the-badge&logo=appveyor=<LOGO_NAME>&logoColor=#4285F4&color=2bbc9d)
-![](https://img.shields.io/badge/Certification-ScrumFoundation-informational?style=for-the-badge&logo=appveyor=<LOGO_NAME>&logoColor=#4285F4&color=2bbc9d)
+![](https://img.shields.io/badge/Google-Apigee(APIEngineer)-informational?style=for-the-badge&logo=appveyor<google>&logoColor=#4285F4&color=2bbc9d)
+![](https://img.shields.io/badge/SixSigma-YellowBelt-informational?style=for-the-badge&logo=appveyor=<LOGO_NAME>&logoColor=#4285F4&color=2bbc9d)
+![](https://img.shields.io/badge/Scrum-Foundation-informational?style=for-the-badge&logo=appveyor=<LOGO_NAME>&logoColor=#4285F4&color=2bbc9d)
 
 #
 Also, you can find me on [LinkedIn](https://www.linkedin.com/in/renato-santana-b197a0171/) or [here](mailto:renatodev@icloud.com).
