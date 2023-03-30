@@ -2,7 +2,7 @@
 #
 I am Renato Santana, Backend developer and Integration Architect.
 
-- 🌱 I’m currently working as `Software Engineer`.
+- 🌱 I’m currently working as `Tech Leader`.
 #
 
 <a href="https://github.com/renatoaps/langs">
